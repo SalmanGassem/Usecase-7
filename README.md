@@ -11,3 +11,4 @@ Along with price predictions, implementation for classifications has been done a
 - Decision Trees
 - Random Forests
 - SVM
+- KNN
