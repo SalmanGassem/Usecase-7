@@ -33,7 +33,7 @@ minutes_played = st.number_input("The amount of time played (in minutes):", min_
 # Prompt the user for the third input (dropdown selection)
 highest_value = st.number_input("The highest value amount the player achieved:", min_value=0)
 
-api_url = "http://127.0.0.1:8000/predict"
+api_url = "https://usecase-7-3dwm.onrender.com/predict"
 
 if st.button("Get Prediction"):
     # Prepare the data to be sent to the FastAPI model
