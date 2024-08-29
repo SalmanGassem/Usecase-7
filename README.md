@@ -1,5 +1,9 @@
 # Usecase-7
 
+### Both Streamlit and the FastAPI are publicly hosted.
+
+### The integration of both has been done under the "Predict" page in the streamlit.
+
 ## Streamlit Link: https://usecase-7-salman.streamlit.app/
 
 ## FastAPI Link: https://usecase-7-3dwm.onrender.com
