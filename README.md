@@ -1,6 +1,6 @@
 # Usecase-7
 
-### Both Streamlit and the FastAPI are publicly hosted.
+### Both Streamlit and FastAPI are publicly hosted.
 
 ### The integration of both has been done under the "Predict" page in the streamlit.
 
